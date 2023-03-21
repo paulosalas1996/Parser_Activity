@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Medicines>
+    <Medicine id="1">
+        <GenericName>Paracetamol</GenericName>
+        <DrugClass> Aminopenicillins</DrugClass>
+        <Strength>500 mg</Strength>
+        <Company>UNILAB, Inc</Company>
+        <Description>Relief and care for headache and fever.</Description>
+        <Types>
+            <Type id="1">Tablet</Type>
+            <Type id="2">Capsule</Type>
+            <Type id="3">Syrup</Type>
+            <Type id="4">Liquid</Type>
+            <Type id="5">Injection</Type>
+        </Types>
+    </Medicine>
+    <Medicine id="2">
+        <GenericName>Cetirizine</GenericName>
+        <DrugClass>Antihistamines</DrugClass>
+        <Strength>10 mg</Strength>
+        <Company>Knoll Pharmaceuticals Ltd</Company>
+        <Description>An antihistamine used to relieve allergy symptoms. </Description>
+        <Types>
+            <Type id="1">Tablet</Type>
+            <Type id="2">Capsule</Type>
+            <Type id="3">Syrup</Type>
+            <Type id="4">Liquid</Type>
+            <Type id="5">Injection</Type>
+        </Types>
+    </Medicine>
+    <Medicine id="3">
+        <GenericName> Ambroxol</GenericName>
+        <DrugClass>Mucolytic</DrugClass>
+        <Strength> 5 ml</Strength>
+        <Company>Kala Amb Industrial Area</Company>
+        <Description>Ambroxol is kind of strong expectorant, clinically proven active mucolytic agent.</Description>
+        <Types>
+            <Type id="1">Tablet </Type>
+            <Type id="2">Capsule</Type>
+            <Type id="3">Syrup</Type>
+            <Type id="4">Liquid</Type>
+            <Type id="5">Injection</Type>
+        </Types>
+    </Medicine>
+    <Medicine id="4" >
+        <GenericName>Neozep Forte</GenericName>
+        <DrugClass>Analgesic-antipyretic</DrugClass>
+        <Strength>10 mg / 2 mg / 500 mg</Strength>
+        <Company>PT. Medifarma Laboratories</Company>
+        <Description>For relief of cold and all its symptoms.</Description>
+        <Types>
+            <Type id="1">Tablet</Type>
+            <Type id="2">Capsule</Type>
+            <Type id="3">Syrup</Type>
+            <Type id="4">Liquid</Type>
+            <Type id="5">Injection</Type>
+        </Types>
+    </Medicine>
+    <Medicine id="5" >
+        <GenericName>Cephalexin</GenericName>
+        <DrugClass>Cephalosporin antibiotics</DrugClass>
+        <Strength>500 mg</Strength>
+        <Company>PT. Medifarma Laboratories</Company>
+        <Description>Used to treat a wide variety of bacterial infections.</Description>
+        <Types>
+            <Type id="1">Tablet</Type>
+            <Type id="2">Capsule</Type>
+            <Type id="3">Syrup</Type>
+            <Type id="4">Liquid</Type>
+            <Type id="5">Injection</Type>
+        </Types>
+    </Medicine>
+</Medicines>
